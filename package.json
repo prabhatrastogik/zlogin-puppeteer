@@ -1,0 +1,11 @@
+{
+  "name": "zlogin-puppeteer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Login Automation Zerodha",
+  "dependencies": {
+    "@google-cloud/pubsub": "*",
+    "puppeteer": "*",
+    "totp-generator": "*"
+  }
+}
